@@ -11,5 +11,5 @@ Below is a list of direct contributors to this tutorial by year.
 - Irfan Alibay (@IAlibay)
 
 ## 2025
-- Iain Smith (@ipssmith)
+- Iain Peter Shand Smith (@ipssmith)
 
